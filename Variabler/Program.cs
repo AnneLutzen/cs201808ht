@@ -57,7 +57,8 @@ namespace Variabler
             Console.WriteLine(tal.ToString("N5"));
             Console.WriteLine(tal.ToString("F2"));
 
-
+            System.Boolean b1 = true;
+            
 
 
 
