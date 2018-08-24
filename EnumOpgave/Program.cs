@@ -28,7 +28,6 @@ namespace EnumOpgave
     {
         public int Id;
         public string Navn;
-
     }
 
     public enum FilTyper
