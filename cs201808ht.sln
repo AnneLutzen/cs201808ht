@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler", "Variabler\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariabelOpgave", "VariabelOpgave\VariabelOpgave.csproj", "{BD1E3ADC-448A-470A-B4D7-C75D52E3AB16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatoOpgave", "DatoOpgave\DatoOpgave.csproj", "{27C06F6B-16C5-4AB2-98CD-154FB9BB821B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumOpgave", "EnumOpgave\EnumOpgave.csproj", "{7FBBA5D8-5A04-4A9C-862F-892345769155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BD1E3ADC-448A-470A-B4D7-C75D52E3AB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD1E3ADC-448A-470A-B4D7-C75D52E3AB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD1E3ADC-448A-470A-B4D7-C75D52E3AB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C06F6B-16C5-4AB2-98CD-154FB9BB821B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C06F6B-16C5-4AB2-98CD-154FB9BB821B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C06F6B-16C5-4AB2-98CD-154FB9BB821B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C06F6B-16C5-4AB2-98CD-154FB9BB821B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBBA5D8-5A04-4A9C-862F-892345769155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBBA5D8-5A04-4A9C-862F-892345769155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBBA5D8-5A04-4A9C-862F-892345769155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBBA5D8-5A04-4A9C-862F-892345769155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
