@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber_getSomMetoder", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber_terning", "Egenskaber_terning\Egenskaber_terning.csproj", "{29CF70C3-C682-454E-9549-A8027D36D53E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_simpel", "Arrays_simpel\Arrays_simpel.csproj", "{FAC99B63-0BC3-4DC8-A267-EB0D951099D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_split", "Array_split\Array_split.csproj", "{B4D9079E-0AD9-4A79-A61C-6308C6BEEF2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{29CF70C3-C682-454E-9549-A8027D36D53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CF70C3-C682-454E-9549-A8027D36D53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CF70C3-C682-454E-9549-A8027D36D53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC99B63-0BC3-4DC8-A267-EB0D951099D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC99B63-0BC3-4DC8-A267-EB0D951099D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC99B63-0BC3-4DC8-A267-EB0D951099D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC99B63-0BC3-4DC8-A267-EB0D951099D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D9079E-0AD9-4A79-A61C-6308C6BEEF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D9079E-0AD9-4A79-A61C-6308C6BEEF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D9079E-0AD9-4A79-A61C-6308C6BEEF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D9079E-0AD9-4A79-A61C-6308C6BEEF2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
